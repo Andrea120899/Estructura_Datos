@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Ahorcado</label>
+		<id>124</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Ahorcado.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Ahorcado.jcp</path>
+		</project>
+	</projects>
+</workspace>
