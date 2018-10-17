@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Ejercicio2</label>
+		<id>3</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Ejercicio2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Ejercicio2.jcp</path>
+		</project>
+	</projects>
+</workspace>
